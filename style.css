@@ -1,0 +1,48 @@
+/*
+Theme Name: Automobile Hub Child
+Theme URI: https://www.http://localhost/wp/
+Author: Kieran Mifsud
+Author URI: https://www.http://localhost/wp/
+Template: automobile-hub
+Description: Automobile Hub Child
+Version: 1.0.0
+Tested up to: 5.7
+Requires PHP: 7.2.14
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: automobile-hub-child
+Tags: wide-blocks, block-styles, one-column, two-columns, right-sidebar, left-sidebar, three-columns, four-columns, grid-layout, custom-colors, custom-header, custom-background, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, full-width-template, rtl-language-support, sticky-post, theme-options, post-formats, threaded-comments, translation-ready, blog, e-commerce, portfolio
+
+*/
+
+h1.entry-title {text-align:Center;
+color: yellow}
+
+a{font-family: Tahoma, serif;
+	font-style: normal;
+}
+
+span{color: white}
+
+div.entry-content{
+background-color: #f1ef0e
+}
+
+div.menubar {background-color: #555a00}
+
+h1.entry-title {font-family: Tahoma, serif;
+font-style: normal;
+	font-weight: 600;}
+
+h3.widget-title{font-family: Georgia,fantasy;}
+}
+
+.main-navigation a {color: black;
+font-size: 14px;}	
+	
+body {color: yellow}
+p {color: yellow;
+font-size: 18px}
+
+#theme-sidebar section {background-color: black}
+	
